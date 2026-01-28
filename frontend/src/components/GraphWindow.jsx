@@ -269,8 +269,8 @@ const GraphWindow = memo(({ plotDataUrl, isPlotReady, plotError }) => {
               alt="Jardesigner Landing Graphic"
               style={{
                 objectFit: 'contain',
-                maxWidth: '80%',
-                maxHeight: '80%',
+                maxWidth: '100%',
+                maxHeight: '100%',
               }}
             />
           </Box>
